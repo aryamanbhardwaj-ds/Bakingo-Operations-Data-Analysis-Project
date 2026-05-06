@@ -43,4 +43,4 @@ The analysis found 7 distinct, data-backed answers.
 
 ---
 
-## Project Structure
+
