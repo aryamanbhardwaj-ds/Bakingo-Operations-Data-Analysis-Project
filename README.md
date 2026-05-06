@@ -43,4 +43,7 @@ The analysis found 7 distinct, data-backed answers.
 
 ---
 
+## Author
+Aryaman Bhardwaj  
+Data Analyst | Python | SQL | PySpark | Business Intelligence
 
