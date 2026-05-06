@@ -43,6 +43,30 @@ The analysis found 7 distinct, data-backed answers.
 
 ---
 
+## Dataset Note
+
+The dataset used in this project is **synthetically generated** — real Bakingo operational
+data is not publicly available. Every field was built using realistic business logic:
+discount distributions based on Indian D2C patterns, delivery times distributed around
+realistic averages, customer ratings correlated with delivery speed, and spoilage costs
+tied to product perishability.
+
+Generating a dataset this way is itself an analytical exercise — it requires understanding
+the business well enough to know which variables should correlate and what realistic ranges
+look like for each metric.
+
+---
+
+## Key Takeaways
+
+- The business is in **net loss** — not because of one reason, but seven compounding ones
+- **Discount control** and **loyalty retention** are the fastest paths to profitability
+- **Delivery time** is not just a logistics metric — it directly drives churn and CAC
+- **Data infrastructure** must be fixed alongside operations, or improvements cannot be measured
+- No single fix works in isolation — all seven problems are interconnected
+
+---
+
 ## Author
 Aryaman Bhardwaj  
 Data Analyst | Python | SQL | PySpark | Business Intelligence
